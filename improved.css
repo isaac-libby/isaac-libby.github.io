@@ -1,0 +1,7 @@
+body {color: darkred; background: grey; font-family: 'merriweather', serif}
+	h1 {font-size: 200%; font-weight: bold; color: green;}
+	h2 {font-size: 150%; color: purple;}
+	h5 {font-size: 110%; color: green;}
+		nav a {border: 10px solid black; margin: 50px;}
+			a { color: yellow; text-decoration: none} a:hover {color: purple}
+				table, th, td {border: 1px solid black; border-collaps: collaps;}
